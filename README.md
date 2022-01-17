@@ -1,3 +1,6 @@
+#“To implement hand gesture detection and recognition system to perform certain actions using HAAR features.”
+Aim: The aim of the project is to record gestures of a hand from the camera of a phone and when the user does any action, the application will produce the desired outcome as specified already by user like opening an application, playing music, putting an alarm etc.
+
 # Hand-Gesture-Recognition-for-Presentation-Process-in-Python
 Controls the presentation process using hand gestures.
 
